@@ -4,7 +4,7 @@ import ui                   # UIモジュール
 import llm                  # LLMモジュール
 import database             # データベースモジュール
 import metrics              # 評価指標モジュール
-import data                 # データモジュール
+import data                 # データモジュー
 import torch
 from transformers import pipeline
 from config import MODEL_NAME
